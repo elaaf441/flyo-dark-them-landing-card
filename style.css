@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+section{
+    background-color:  hsl(218, 28%, 13%);
+    color: rgb(182, 182, 182);
+    height: px;
+    width: 375px;
+position: absolute;
+left: 450px;
+padding: 40px;
+}
+.feature{
+    text-decoration: none;
+    color: aliceblue;
+   position: absolute;
+   left: 180px;
+   top: 50px;
+
+
+    
+}
+.team{
+    text-decoration: none;
+    color: aliceblue;
+   position: absolute;
+   left: 270px;
+   top: 50px;
+}
+.sing{
+    text-decoration: none;
+    color: aliceblue;
+   position: absolute;
+   left: 350px;
+   top: 50px;
+}
+.logo{
+    width: 98px;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 12px;
+}
+.images{
+    height: 200px;
+margin-left: 60px;
+margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+    color: rgb(233, 233, 233);
+}
+button{
+    width: 300px;
+    height: 50px;
+border-radius: 40px;
+margin-left: 35px;
+font-size: 20px;
+background-color: rgb(134, 189, 240);
+border: rgb(134, 189, 240);
+margin-bottom: 100px;
+color: white;
+}
+.computer{
+    margin-left: 150px;
+    margin-bottom: 40px;
+
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+h4{
+    text-align: center;
+    margin: 20px;
+    color:  rgb(219, 217, 217);
+    margin-bottom: 40px;
+}
+.security{
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.faotor{
+    color: rgb(219, 217, 217);
+    text-align: center;
+    margin: 20px;
+    font-size: 17px;
+}
+.realtime{
+    margin-left: 150px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.real{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin: 20px;
+    
+}
+.file{
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.stay{
+    height: 230px;
+    margin-left: 50px;
+margin-top: 100px;
+}
+.never{
+    text-align: left;
+}
+.you{
+    margin-top: 50px;
+}
+.with{
+    text-align: left;
+    margin-bottom: 40px;
+}
+.works{
+    font-size: 19px;
+    position: absolute;
+    bottom: 1090px;
+    left: 60px;
+    margin-bottom: 40px;
+  color: rgb(117, 241, 241);
+    
+}
+hr{
+    width: 200px;
+    margin-left: 16px;
+border: aqua 1px solid ;
+margin-bottom: 80px;
+
+}
+.arrow{
+    position: absolute;
+    /* top: 2000px; */
+    bottom: 1130px;
+    left: 230px;
+    width: 23px;
+}
+.firstteam{
+    width: 400px;
+    height: 250px;
+    background-color: hsl(219, 30%, 18%);
+
+}
+.align{
+    text-align: left;
+    padding-top: 40px;
+    color: rgb(202, 202, 202);
+}
+.profile1{
+    width: 50px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.five{
+    position: absolute;
+    bottom: 780px;
+    left: 130px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.six{
+    position: absolute;
+    bottom: 760px;
+    left: 130px;
+    font-size: 12px;
+}
+.secondteam{
+    width: 400px;
+    height: 250px;
+    background-color: hsl(219, 30%, 18%);
+
+}
+.profile2{
+    width: 50px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.order{
+    text-align: left;
+    padding-top: 40px;
+    color: rgb(202, 202, 202);
+}
+.thirdteam{
+    width: 400px;
+    height: 250px;
+    background-color: hsl(219, 30%, 18%);
+
+}
+.profile3{
+    width: 50px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.improved{
+    text-align: left;
+    padding-top: 40px;
+    color: rgb(202, 202, 202);
+}
+.five2{
+position: absolute;
+bottom: 505px;
+left: 130px;
+font-size: 18px;
+color: aliceblue;
+}
+.six2{
+    position: absolute;
+bottom: 485px;
+left: 130px;
+font-size: 12px;
+
+}
+.five3{
+    position: absolute;
+    bottom: 235px;
+    left: 130px;
+    font-size: 18px;
+    color: aliceblue;  
+}
+.six3{
+    position: absolute;
+    bottom: 209px;
+    left: 130px;
+    font-size: 12px;
+    
+}
+.acces{
+    width: 400px;
+    height: 500px;
+    background-color:  hsl(217, 28%, 15%);
+    margin-top: 200px;
+
+}
+.blue{
+    position: absolute;
+    left: 48px;
+    bottom: 100px;
+    height: 70px;
+width: 330px;
+
+}
+.white{
+    position: absolute;
+    left: 48px;
+    bottom: 200px;
+    height: 70px;
+    width: 330px;
+    background-color: white;
+    color: rgb(185, 185, 185);
+    font-size: 14px;
+    text-align: left;
+    padding-left: 40px;
+   
+}
+.easyp{
+    margin-top: 40px;
+    font-size:24px;
+}
+.one{
+padding-top: 40px;
+}
+.lorem{
+    width: 454px;
+    background-color:  hsl(216, 53%, 9%);
+    padding-top: 300px;
+position: absolute;
+right: 1px;
+bottom: 1px;
+/* z-index: 9; */
+z-index: 0;
+margin: 20px;
+}
